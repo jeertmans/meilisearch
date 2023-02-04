@@ -74,7 +74,7 @@ tar = "0.4.38"
 tempfile = "3.3.0"
 thiserror = "1.0.30"
 time = { version = "0.3.7", features = ["serde-well-known", "formatting", "parsing", "macros"] }
-tokio = { version = "1.17.0", features = ["full"] }
+tokio = { version = "1.20.4", features = ["full"] }
 tokio-stream = "0.1.8"
 toml = "0.5.9"
 uuid = { version = "1.1.2", features = ["serde", "v4"] }
